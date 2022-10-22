@@ -1,0 +1,7 @@
+D:\Ams2_1651(Huynh-Ngoc-Hoang-Loc)\Movie_Management\Movie_Management\obj\Debug\Movie_Management.csproj.AssemblyReference.cache
+D:\Ams2_1651(Huynh-Ngoc-Hoang-Loc)\Movie_Management\Movie_Management\obj\Debug\Movie_Management.csproj.SuggestedBindingRedirects.cache
+D:\Ams2_1651(Huynh-Ngoc-Hoang-Loc)\Movie_Management\Movie_Management\obj\Debug\Movie_Management.csproj.CoreCompileInputs.cache
+D:\Ams2_1651(Huynh-Ngoc-Hoang-Loc)\Movie_Management\Movie_Management\bin\Debug\Movie_Management.exe
+D:\Ams2_1651(Huynh-Ngoc-Hoang-Loc)\Movie_Management\Movie_Management\bin\Debug\Movie_Management.pdb
+D:\Ams2_1651(Huynh-Ngoc-Hoang-Loc)\Movie_Management\Movie_Management\obj\Debug\Movie_Management.exe
+D:\Ams2_1651(Huynh-Ngoc-Hoang-Loc)\Movie_Management\Movie_Management\obj\Debug\Movie_Management.pdb
