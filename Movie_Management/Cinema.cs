@@ -49,7 +49,7 @@ namespace Movie_Management
                }
                else
                {
-                   Console.WriteLine("LL");
+                   Console.WriteLine("Please re-enter!!!");
                }
                
            }
