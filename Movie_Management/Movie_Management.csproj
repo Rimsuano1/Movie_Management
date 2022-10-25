@@ -39,12 +39,11 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Film.cs" />
+        <Compile Include="Cinema.cs" />
+        <Compile Include="HotMovie.cs" />
         <Compile Include="IMovie.cs" />
-        <Compile Include="ManagementMovie.cs" />
         <Compile Include="Movie.cs" />
         <Compile Include="Program.cs" />
-        <Compile Include="Table.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

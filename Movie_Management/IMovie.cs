@@ -5,7 +5,7 @@ namespace ManageMovie.Interface
 {
     public interface IMovie
     {
-        void ViewListFilm();
+        string ViewInforMovies();
        
     }
 }
